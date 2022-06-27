@@ -1,0 +1,96 @@
+[{
+  "type": "flex",
+  "altText": "ฝาก 100 รับ 300 บาท",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2022/06/28/VORIlq.jpg",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2022/06/28/VORljl.png",
+        "size": "5xl",
+        "aspectRatio": "3:1",
+        "margin": "lg",
+        "animated": true
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FFFFFF",
+        "text": "สมัครสมาชิกใหม่รับโบนัสฟรี 100% ฝากถอนระบบอัตโนมัติ มีครบทุกค่ายเกม",
+        "wrap": true
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#000000"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี 89 บาท",
+          "uri": "https://lin.ee/dNFrBSj"
+        },
+        "style": "primary",
+        "color": "#9933FF",
+        "height": "md"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://betflikauto889.com/member/home"
+            },
+            "style": "primary",
+            "color": "#9933FF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับโบนัส",
+              "uri": "https://betflikauto889.com/member/home"
+            },
+            "style": "primary",
+            "color": "#9933FF"
+          }
+        ],
+        "spacing": "sm",
+        "margin": "sm"
+      }
+    ],
+    "backgroundColor": "#000000"
+  },
+  "styles": {
+    "header": {
+      "backgroundColor": "#000000"
+    },
+    "body": {
+      "backgroundColor": "#000000"
+    }
+  }
+}
+}]

@@ -1,0 +1,101 @@
+[{
+  "type": "flex",
+  "altText": "เธฮๆว่างอยู่รึเปล่า",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/f02c91ff7c580dedf765fe08265dee92.jpg",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2022/06/28/VORljl.png",
+        "size": "5xl",
+        "aspectRatio": "3:1",
+        "margin": "lg",
+        "animated": true
+      },
+      {
+        "type": "text",
+        "text": "เเจกเครดิตฟรี 89 บาท สมาชิกใหม่รับได้ทันที สามารถเล่นได้ทุกค่ายเกม ถอนได้จริง",
+        "align": "center",
+        "wrap": true,
+        "color": "#FFFAFA",
+        "size": "md",
+        "weight": "bold",
+        "margin": "md"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#0000CD",
+      "endColor": "#000000",
+      "centerColor": "#000080"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี 89 บาท",
+          "uri": "https://lin.ee/dNFrBSj"
+        },
+        "style": "primary",
+        "color": "#8470FF",
+        "height": "md"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://betflikauto889.com/member/home"
+            },
+            "style": "primary",
+            "color": "#8470FF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับโบนัส",
+              "uri": "https://betflikauto889.com/member/home"
+            },
+            "style": "primary",
+            "color": "#8470FF"
+          }
+        ],
+        "spacing": "sm",
+        "margin": "sm"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#0000CD",
+      "centerColor": "#191970"
+    }
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#000000"
+    }
+  }
+}
+}]

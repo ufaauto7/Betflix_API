@@ -1,0 +1,93 @@
+[{
+  "type": "flex",
+  "altText": "เเจกเครดิตฟรี 50 บาทไม่ต้องฝากก่อน !!"
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/b53e3586016f8d3c11b4abc93912410a.jpg",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "action": {
+      "type": "uri",
+      "uri": "http://linecorp.com/"
+    },
+    "margin": "xxl",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เเจกเครดิตฟรี 50.-",
+        "weight": "bold",
+        "size": "xxl",
+        "color": "#FFFF33",
+        "margin": "none",
+        "offsetTop": "none",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "color": "#FFFFFF",
+        "text": "สมัครสมาชิกใหม่รับเครดิตฟรีทันที 50 บาท ไม่ต้องฝากก่อน เล่นได้ทุกค่ายเกม",
+        "wrap": true,
+        "align": "center"
+      }
+    ],
+    "backgroundColor": "#000000"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "xxl",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "md",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://ufax168.com/"
+        },
+        "color": "#FFD700",
+        "margin": "xxl",
+        "offsetTop": "none",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none"
+      },
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "md",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/5j4pHci"
+        },
+        "color": "#00FF00",
+        "margin": "xxl"
+      }
+    ],
+    "flex": 0,
+    "backgroundColor": "#000000",
+    "borderWidth": "none",
+    "cornerRadius": "none",
+    "margin": "xxl"
+  },
+  "size": "giga",
+  "styles": {
+    "header": {
+      "backgroundColor": "#000000",
+      "separatorColor": "#000000"
+    }
+  }
+}
+}]

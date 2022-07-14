@@ -1,4 +1,4 @@
-{
+[{
   "type": "flex",
   "altText": "เเจ้งเบอร์รับเลย 199 บาท !!",
   "contents": {
@@ -55,7 +55,7 @@
           "uri": "https://lin.ee/Qk6KQOf"
         },
         "style": "primary",
-        "color": "#9900FF"
+        "color": "#9933FF"
       },
       {
         "type": "button",
@@ -65,18 +65,18 @@
           "uri": "https://betflikauto889.com/member/home"
         },
         "style": "primary",
-        "color": "#9900FF"
+        "color": "#A020F0"
       }
     ],
     "spacing": "sm",
-    "backgroundColor": "#6A5ACD",
+    "backgroundColor": "#D02090",
     "background": {
       "type": "linearGradient",
       "angle": "0deg",
-      "startColor": "#FF69B4",
+      "startColor": "#D02090",
       "endColor": "#D02090",
-      "centerColor": "#FF69B4"
+      "centerColor": "#D02090"
     }
   }
 }
-}
+}]

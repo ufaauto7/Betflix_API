@@ -1,0 +1,82 @@
+{
+  "type": "flex",
+  "altText": "เเจ้งเบอร์รับเลย 199 บาท !!",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/18623f21d59e0f13d8d9d373143338b6.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/Qk6KQOf"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เเจ้ง User รับได้ฟรี 199 บาท ",
+        "align": "center",
+        "size": "lg",
+        "weight": "bold",
+        "color": "#FFFF00"
+      },
+      {
+        "type": "text",
+        "align": "center",
+        "size": "sm",
+        "wrap": true,
+        "color": "#FFFFFF",
+        "text": "EVOBET89 เเจกเครดิตฟรีสำหรับสมาชิกใหม่ สมัครเเล้วเเจ้ง User ให้เเอดมินรับเครดิตเข้าเล่นได้เลย"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#D02090",
+      "endColor": "#000033",
+      "centerColor": "#660066"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/Qk6KQOf"
+        },
+        "style": "primary",
+        "color": "#9900FF"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://betflikauto889.com/member/home"
+        },
+        "style": "primary",
+        "color": "#9900FF"
+      }
+    ],
+    "spacing": "sm",
+    "backgroundColor": "#6A5ACD",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FF69B4",
+      "endColor": "#D02090",
+      "centerColor": "#FF69B4"
+    }
+  }
+}
+}

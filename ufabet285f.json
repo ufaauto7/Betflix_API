@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "เเจกเครดิตฟรี  50 บาทไม่ต้องฝากกอ่น !!",
+  "altText": "เเจกเครดิจฟรี 50 บาท !!",
   "contents": {
   "type": "bubble",
   "hero": {
@@ -44,14 +44,14 @@
     "contents": [
       {
         "type": "button",
-        "style": "primary",
+        "style": "secondary",
         "height": "md",
         "action": {
           "type": "uri",
           "label": "สมัครสมาชิก",
           "uri": "https://ufax168.com/"
         },
-        "color": "#FFD700",
+        "color": "#FFFF00",
         "margin": "xxl",
         "offsetTop": "none",
         "offsetBottom": "none",
@@ -60,14 +60,14 @@
       },
       {
         "type": "button",
-        "style": "primary",
+        "style": "secondary",
         "height": "md",
         "action": {
           "type": "uri",
           "label": "รับเครดิตฟรี",
           "uri": "https://lin.ee/5j4pHci"
         },
-        "color": "#00FF00",
+        "color": "#FF3300",
         "margin": "xxl"
       }
     ],
@@ -77,7 +77,7 @@
     "cornerRadius": "none",
     "margin": "xxl"
   },
-  "size": "giga",
+  "size": "mega",
   "styles": {
     "header": {
       "backgroundColor": "#000000",

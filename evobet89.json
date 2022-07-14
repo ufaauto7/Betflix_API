@@ -1,0 +1,82 @@
+[{
+  "type": "flex",
+  "altText": "เเจกฟรี ไม่ต้องทำกิจกรรมเพียงสมัครรับได้เลย !!",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/c4971fbfa4436e881b274913927492eb.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/Qk6KQOf"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เเจกเครดิตฟรี 119 บาท ",
+        "align": "center",
+        "size": "lg",
+        "weight": "bold",
+        "color": "#00FF00"
+      },
+      {
+        "type": "text",
+        "text": "รับง่ายเพียงสมัครสมาชิกเเล้วนำโค้ดที่ได้รับไปกรอกในเว็บสามารถเข้าเล่นได้ทันที ถอนได้ไม่จำกัด",
+        "align": "center",
+        "size": "sm",
+        "wrap": true,
+        "color": "#FFFFFF"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#6A5ACD",
+      "endColor": "#191970",
+      "centerColor": "#6633CC"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/Qk6KQOf"
+        },
+        "style": "primary",
+        "color": "#FFD700"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://betflikauto889.com/member/home"
+        },
+        "style": "primary",
+        "color": "#FFD700"
+      }
+    ],
+    "spacing": "sm",
+    "backgroundColor": "#6A5ACD",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#6633FF",
+      "endColor": "#6A5ACD",
+      "centerColor": "#8470FF"
+    }
+  }
+}
+}]

@@ -1,0 +1,89 @@
+[{
+  "type": "flex",
+  "altText": "สมัครใหม่ ฝาก 199 รับเลย 399 บาท",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/6b707076b853dfc7f70e81f5e6ebc465.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/Qk6KQOf"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "User ใหม่เเตกหนัก ถอนกระจาย !!",
+        "align": "center",
+        "size": "lg",
+        "weight": "bold",
+        "color": "#FFFF00"
+      },
+      {
+        "type": "text",
+        "align": "center",
+        "size": "sm",
+        "wrap": true,
+        "color": "#FFFFFF",
+        "text": "สมัครสมาชิกใหม่ รับฟรีโบนัสเลข 9 เทิร์นน้อยถอนได้ไม่จำกัด เล่นได้ทุกค่ายเกม PG เเจกหนักเวลานี้"
+      }
+    ],
+    "backgroundColor": "#FF1493",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000033",
+      "endColor": "#000033",
+      "centerColor": "#000033"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/Qk6KQOf"
+        },
+        "style": "primary",
+        "color": "#FF00FF"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://betflikauto889.com/member/home"
+        },
+        "style": "primary",
+        "color": "#FF00FF"
+      }
+    ],
+    "spacing": "sm",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000033",
+      "endColor": "#000033",
+      "centerColor": "#000033"
+    },
+    "borderWidth": "none",
+    "cornerRadius": "none"
+  },
+  "styles": {
+    "footer": {
+      "backgroundColor": "#000033"
+    }
+  }
+}
+}]

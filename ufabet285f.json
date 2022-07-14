@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "เเจกเครดิตฟรี 50 บาทไม่ต้องฝากก่อน !!",
+  "altText": "เเจกเครดิตฟรี  50 บาทไม่ต้องฝากกอ่น !!",
   "contents": {
   "type": "bubble",
   "hero": {
@@ -8,12 +8,7 @@
     "url": "https://www.img.in.th/images/b53e3586016f8d3c11b4abc93912410a.jpg",
     "size": "full",
     "aspectRatio": "1:1",
-    "action": {
-      "type": "uri",
-      "uri": "http://linecorp.com/"
-    },
-    "margin": "xxl",
-    "aspectMode": "cover"
+    "margin": "none"
   },
   "body": {
     "type": "box",

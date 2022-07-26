@@ -1,0 +1,309 @@
+[{
+  "type": "flex",
+  "altText": "มีเงินโอน +5,000.00 บาท จาก กสิกรไทย บัญชี X-9988 จำนวนเงินที่ใช้ได้ 8,987 บาท",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2022/07/26/XhgKSD.png",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เเจกเครดิตฟรี ไม่ต้องฝากก่อน !!",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "color": "#00FA9A"
+          },
+          {
+            "type": "text",
+            "text": "สมัครสมาชิกเเจ้ง User รับได้ทันที 200 บาท เล่นได้ทุกค่ายถอนได้จริง จำนวนจำกัด",
+            "align": "center",
+            "wrap": true,
+            "size": "sm",
+            "color": "#FFFFFF",
+            "margin": "md"
+          }
+        ],
+        "backgroundColor": "#000000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/0bbW06W"
+            },
+            "style": "primary",
+            "color": "#FFD700"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://member.betway1689.com/"
+            },
+            "style": "primary",
+            "color": "#FFD700"
+          }
+        ],
+        "spacing": "md",
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2022/07/26/XhcPB1.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมาชิกใหม่รับฟรี โบนัส 100%",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "color": "#00FA9A"
+          },
+          {
+            "type": "text",
+            "text": "สมัครใหม่วันนี้รับโบนัสฟรี สูงสุด 1,000,000 บาท ถอนได้ไม่จำกัดบิล เล่นได้ทุกค่าายเกม",
+            "align": "center",
+            "wrap": true,
+            "size": "sm",
+            "color": "#FFFFFF",
+            "margin": "md"
+          }
+        ],
+        "backgroundColor": "#000000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/0bbW06W"
+            },
+            "style": "primary",
+            "color": "#FFD700"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://member.betway1689.com/"
+            },
+            "style": "primary",
+            "color": "#FFD700"
+          }
+        ],
+        "spacing": "md",
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2022/07/26/XhcolW.png",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ถอนได้จริงทุกบิล ไม่จำกัดครั้งต่อวัน !!",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "color": "#00FA9A"
+          },
+          {
+            "type": "text",
+            "text": "ระบบอัตโนมัติที่รวดเร็วที่สุดในไทย ฝากถอนรวดเร็วภายใน 3 วินาที คาสิโนครบวงจร",
+            "align": "center",
+            "wrap": true,
+            "size": "sm",
+            "color": "#FFFFFF",
+            "margin": "md"
+          }
+        ],
+        "backgroundColor": "#000000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/0bbW06W"
+            },
+            "style": "primary",
+            "color": "#FFD700"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://member.betway1689.com/"
+            },
+            "style": "primary",
+            "color": "#FFD700"
+          }
+        ],
+        "spacing": "md",
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2022/07/26/XhclTg.png",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "กงล้อสุดเจ๋งรางวัลใหญ่ออกวัน",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "color": "#00FA9A"
+          },
+          {
+            "type": "text",
+            "text": "สมาชิกใหม่รับตั๋ว 1 ใบ ปั่นกงล้อลุ้นรางวัลใหญ่พลาดไม่ได้ รางวัลเงิน 100,000 บาท",
+            "align": "center",
+            "wrap": true,
+            "size": "sm",
+            "color": "#FFFFFF",
+            "margin": "md"
+          }
+        ],
+        "backgroundColor": "#000000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/0bbW06W"
+            },
+            "style": "primary",
+            "color": "#FFD700"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://member.betway1689.com/"
+            },
+            "style": "primary",
+            "color": "#FFD700"
+          }
+        ],
+        "spacing": "md",
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2022/07/26/XhcDv2.png",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สายบาคาร่าถอนหนักหลักล้าน",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "color": "#00FA9A"
+          },
+          {
+            "type": "text",
+            "text": "ถอนวันละ 20 ล้านบาท ถอนไม่อั้น ระบบถอนอัตโนมัติภายใน 3 วินาที",
+            "align": "center",
+            "wrap": true,
+            "size": "sm",
+            "color": "#FFFFFF",
+            "margin": "md"
+          }
+        ],
+        "backgroundColor": "#000000"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/0bbW06W"
+            },
+            "style": "primary",
+            "color": "#FFD700"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://member.betway1689.com/"
+            },
+            "style": "primary",
+            "color": "#FFD700"
+          }
+        ],
+        "spacing": "md",
+        "backgroundColor": "#000000"
+      }
+    }
+  ]
+}
+}]

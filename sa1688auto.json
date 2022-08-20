@@ -1,0 +1,69 @@
+[{
+  "type": "flex",
+  "altText": "พี่คะ เช็คยอดเงินในบัญชีรึยังคะ",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/b303110bf441414fbbb35c809bc14b7f.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/0bbW06W"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เเจกเครดิตฟรี ไม่ต้องฝากก่อน !!",
+        "align": "center",
+        "weight": "bold",
+        "color": "#FFD700",
+        "size": "lg"
+      },
+      {
+        "type": "text",
+        "text": "สมัครสมาชิกเเจ้ง User รับเครดิตทันที เล่นได้ทุกค่ายเกม ถอนได้จริง สิทธิ์จำนวนจำกัด ",
+        "align": "center",
+        "wrap": true,
+        "color": "#FFFFFF",
+        "size": "md"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/xs5oIjj"
+            },
+            "style": "primary",
+            "color": "#FFD700"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://betway1689.com/"
+            },
+            "style": "primary",
+            "color": "#FFD700"
+          }
+        ],
+        "spacing": "md",
+        "margin": "xl"
+      }
+    ],
+    "backgroundColor": "#000000"
+  }
+}
+}]
